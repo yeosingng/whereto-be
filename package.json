@@ -1,0 +1,23 @@
+{
+  "name": "whereto-be",
+  "version": "1.0.0",
+  "description": "Backend for whereto planning application",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeosingng/whereto-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeosingng/whereto-be/issues"
+  },
+  "homepage": "https://github.com/yeosingng/whereto-be#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
